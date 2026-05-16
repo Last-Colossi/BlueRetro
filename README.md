@@ -1,3 +1,17 @@
+## About this fork
+
+This fork of [darthcloud/BlueRetro](https://github.com/darthcloud/BlueRetro)
+patches the Switch 2 NSO GameCube controller "phantom stick" /
+unreliable-reconnection bug discussed in upstream
+[issue #1249](https://github.com/darthcloud/BlueRetro/issues/1249).
+The fix is on branch
+[`fix/sw2-phantom-stick-input`](https://github.com/Last-Colossi/BlueRetro/tree/fix/sw2-phantom-stick-input);
+pre-built firmware is on the
+[Releases](https://github.com/Last-Colossi/BlueRetro/releases) page.
+Upstream is archived and read-only.
+
+---
+
 **This repository has been archived and is no longer under active development or maintenance.**
 
 ```
